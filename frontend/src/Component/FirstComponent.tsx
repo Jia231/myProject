@@ -7,7 +7,7 @@ interface FirstComponent {
 const FirstComponent : React.StatelessComponent<FirstComponent> = (props)=>{
     let {name} = props;
     return(
-        <div>My name is {name}</div>
+        <div>My name is {name}, nice to meet you!</div>
     )
 }
 
