@@ -6,7 +6,7 @@ const css = require('./css/app.scss')
 ReactDOM.render(
     <div>
         Good Morning!!
-        <FirstComponent name={"Nicole"}/>
+        <FirstComponent name={"John"}/>
     </div>,
     document.getElementById('app')
 )
